@@ -1,1 +1,5 @@
-# ML-System-Design-Doc-Case2-
+# Кейс 2: Система идентификации личности по фотографии
+## Состав команды
+ - Зеленин Денис (data scientist)
+ - Прокопец Семен (product owner)
+ - Николай Игнатенков (Bombordiro crocolido)
